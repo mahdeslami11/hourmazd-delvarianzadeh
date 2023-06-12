@@ -9,3 +9,30 @@ https://ganj.irandoc.ac.ir/#/articles/385d2fd45ae2583cad6791ed52d1ee62
 موضوع مقاله به انگلیسی:
 
 Diagnosis of Alzheimer's Disease Through Analysis of EEG Signals Using Convolutional Neural Networks (CNNs)
+
+Abstract: Alzheimer's disease is a neurodegenerative disease, the most common form of 
+dementia, the third most expensive and the sixth leading cause of death in the United States. It
+affects more than 10 percent of Americans over the age of 65, nearly 50 percent of people over
+the age of 85, and is estimated to triple its prevalence over the next 50 years. Alzheimer's
+disease in Iran affects about 700,000 people. The progression of the disease can be classified
+into four stages: mild cognitive impairment, mild Alzheimer's and moderate Alzheimer's and
+severe Alzheimer's. Diagnosis of Alzheimer's disease is performed by a doctor's examination
+and diagnosis. Interpretation of EEG signals by Alzheimer's patients is usually accompanied
+by errors and errors due to medical bias, carelessness and difficulty in visual recognition as
+well as fatigue; therefore, the need for high-precision automatic detection algorithms along
+with physician diagnosis is felt. Early diagnosis can also slow the course of the disease. In this
+thesis, EEG diagnostic tools are used because of their cheapness and non-invasiveness.
+In this thesis, the method of automatic identification of the patient with Alzheimer's disease
+using deep learning is used. In the proposed algorithm, the EEG signal was used to separate
+the classes. Convolutional neural networks are a special type of neural network that exhibits
+the most advanced results in competitive criteria. The ability to learn convolutional neural
+networks largely depends on the use of several feature extraction steps that can automatically
+learn hierarchical representation of the data. A canonical neural network consists of three
+main layers: the cannulation layer, the integration layer, and the fully connected layer. The
+proposed algorithm in this thesis has two main advantages. The first advantage is the
+elimination of the feature selection stage because of the automatic feature selection and the
+second advantage of increasing the values of the criteria for accuracy, accuracy, sensitivity
+and specificity using this algorithm. The algorithm results for the 2-class Alzheimer's disease
+and healthy states, respectively, provide accuracy, sensitivity and specificity of 97, 95 and 97%,
+respectively, which show better results than other classification algorithms with the available
+data. It also exhibits good resistance to various noises.
